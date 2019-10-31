@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server Native Client 10.0
+UID=Yamagiwa
+DATABASE=obc1sresource
+WSID=DJWPJBBX
+APP=Microsoft Data Access Components
+Trusted_Connection=Yes
+SERVER=DJWPJBBX\OBCINSTANCE2X
